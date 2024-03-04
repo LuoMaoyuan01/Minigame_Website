@@ -1,0 +1,29 @@
+.centralize{
+    text-align: center;
+}
+
+.circletable{
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    font-size: 3em;
+    border: 3px black solid;
+    border-radius: 50%;
+    background-color: grey;
+    display: inline-block;
+    margin: 2px;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+.bluechip{
+
+}
+.redchip{
+
+}

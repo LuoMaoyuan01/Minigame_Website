@@ -1,0 +1,19 @@
+.header1{
+    background-color: rgba(211, 211, 211, 0.7);
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.tabledata{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 4em;
+    color: red;
+}
+.Tag{
+    font-size: 1.5em;
+    color: orangered;
+}
