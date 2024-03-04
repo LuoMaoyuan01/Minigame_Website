@@ -1,0 +1,37 @@
+body{
+    border: midnightblue 10px solid;
+    margin: 0;
+    border-top: none;
+}
+.custom1{
+    margin-top: 50px;
+    padding: 10px 20px 10px 20px;
+}
+.custom2{
+    padding: 0px 30px 0px 30px;
+}
+.custom4{
+    margin-right: 225px;
+    margin-left: 225px;
+}
+.bgcolor{
+    background-color: #d3d3d3;
+}
+#jumbotron1{
+    font-size: 3em;
+    font-style: oblique;
+    font-weight: bold;
+}
+#jumbotron2{
+    font-size: 1.35em;
+}
+#jumbotron3{
+    padding-bottom: 35px;
+    margin-bottom: 15px;
+    font-size: 1.35em;
+    margin-top: 0;
+}
+#jumbotron4{
+    font-size: 2.2em;
+    font-weight: bold;
+}
